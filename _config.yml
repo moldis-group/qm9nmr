@@ -1,6 +1,6 @@
-title: prunedHOF
+title: QM9NMR
 logo: toc.png
-description: Probabilistically Pruned Benchmark Dataset of Formation Enthalpies
+description: NMR Shielding Parameters for QM9 Molecules
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
