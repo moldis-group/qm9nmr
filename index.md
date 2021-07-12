@@ -36,7 +36,7 @@ _Revision notes: In our original upload, the atomic indices of the baseline data
 [SI_DFT_geo.xyz](data/SI_DFT_geo.xyz) Contains 130,831 molecules relaxed at B3LYP/6-31G(2df,p) level.
 
 [SI_DFT_NMR.txt](data/SI_DFT_NMR.txt) For each molecule in SI_DFT_geo.xyz, file contains number of atoms, followed by molecule name and isotropic shielding tensors per atom in the molecule in Gas, CCl4, THF, Acetone, Methanol and DMSO respectively, obtained at mPW1PW91/6-311+G(2d,p).   
-[SI_baseline_NMR.txt](data/SI_baseline_NMR.txt) For each molecule in SI_baseline_geo.xyz, file contains number of atoms, followed by molecule name and isotropic shielding tensors per atom in the molecule in Gas phase obtained at B3LYP/sto-3g level.
+[SI_baseline_NMR.txt](data/SI_baseline_NMR.txt) For each molecule in SI_baseline_geo.xyz, file contains number of atoms, followed by molecule name and isotropic shielding tensors per atom in the molecule in Gas phase obtained at B3LYP/STO-3G level.
 
 ### Structure Files
 #### File	Comments
