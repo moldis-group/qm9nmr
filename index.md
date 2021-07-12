@@ -48,8 +48,8 @@ _Revision notes: In our original upload, the atomic indices of the baseline data
 [SI_GDB10to17_DFT_geo.xyz](SI_GDB10to17_DFT_geo.xyz)	Contains 200 molecules from GDB10 to GDB17 molecules relaxed at B3LYP/6-31G(2df,p) level.     
 [SI_GDB10to17_baseline_geo.xyz](SI_GDB10to17_baseline_geo.xyz)	Contains 200 molecules from GDB10 to GDB17 molecules relaxed at PM7 level.     
 
-#### Data Files
-File	Comments
+### Data Files
+#### File	Comments     
 [SI_12Drugs_DFT_NMR.txt](SI_12Drugs_DFT_NMR.txt)	For each molecule in SI_12Drugs_DFT_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at mPW1PW91/6-311+G(2d,p).      
 [SI_12Drugs_baseline_NMR.txt](SI_12Drugs_baseline_NMR.txt)	For each molecule in SI_12Drugs_baseline_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at B3LYP/sto-3g level.
 [SI_40Drugs_DFT_NMR.txt](SI_40Drugs_DFT_NMR.txt)	For each molecule in SI_40Drugs_DFT_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at mPW1PW91/6-311+G(2d,p).
