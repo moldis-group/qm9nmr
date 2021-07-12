@@ -11,6 +11,7 @@ _Revving up <sup>13</sup>C NMR shielding predictions across chemical space: benc
 Amit Gupta, Sabyasachi Chakraborty and Raghunathan Ramakrishnan     
 Mach. Learn.: Sci. Technol. 2 (2021) 035010     
 [https://doi.org/10.1088/2632-2153/abe347](https://doi.org/10.1088/2632-2153/abe347)
+[Supplementary Information to the article (PDF)](data/SI.pdf)
 
 ```
 @article{gupta2021revving,
