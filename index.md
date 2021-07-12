@@ -39,24 +39,24 @@ _Revision notes: In our original upload, the atomic indices of the baseline data
 [SI_baseline_NMR.txt](data/SI_baseline_NMR.txt) For each molecule in SI_baseline_geo.xyz, file contains number of atoms, followed by molecule name and isotropic shielding tensors per atom in the molecule in Gas phase obtained at B3LYP/STO-3G level.
 
 ### Structure Files
-[SI_12Drugs_DFT_geo.xyz](data/SI_12Drugs_DFT_geo.xyz)	Contains 12 Drug molecules relaxed at B3LYP/6-31G(2df,p) level.   
-[SI_12Drugs_baseline_geo.xyz](data/SI_12Drugs_baseline_geo.xyz)	Contains 12 Drug molecules relaxed at PM7 level.    
-[SI_40Drugs_DFT_geo.xyz](data/SI_40Drugs_DFT_geo.xyz)	Contains 40 Drug molecules relaxed at B3LYP/6-31G(2df,p) level.    
-[SI_40Drugs_baseline_geo.xyz](data/SI_40Drugs_baseline_geo.xyz)	Contains 40 Drug molecules relaxed at PM7 level.     
-[SI_PAH_DFT_geo.xyz](data/SI_PAH_DFT_geo.xyz)	Contains 5 Polycyclic Aromatic Hydrocarbons molecules relaxed at B3LYP/6-31G(2df,p) level.    
-[SI_PAH_baseline_geo.xyz](data/SI_PAH_baseline_geo.xyz)	Contains 5 Polycyclic Aromatic Hydrocarbons molecules relaxed at PM7 level.    
-[SI_GDB10to17_DFT_geo.xyz](data/SI_GDB10to17_DFT_geo.xyz)	Contains 200 molecules from GDB10 to GDB17 molecules relaxed at B3LYP/6-31G(2df,p) level.     
-[SI_GDB10to17_baseline_geo.xyz](data/SI_GDB10to17_baseline_geo.xyz)	Contains 200 molecules from GDB10 to GDB17 molecules relaxed at PM7 level.     
+| [SI_12Drugs_DFT_geo.xyz](data/SI_12Drugs_DFT_geo.xyz)	| Contains 12 Drug molecules relaxed at B3LYP/6-31G(2df,p) level.   
+| [SI_12Drugs_baseline_geo.xyz](data/SI_12Drugs_baseline_geo.xyz)	| Contains 12 Drug molecules relaxed at PM7 level.    
+| [SI_40Drugs_DFT_geo.xyz](data/SI_40Drugs_DFT_geo.xyz)	| Contains 40 Drug molecules relaxed at B3LYP/6-31G(2df,p) level.    
+| [SI_40Drugs_baseline_geo.xyz](data/SI_40Drugs_baseline_geo.xyz)	| Contains 40 Drug molecules relaxed at PM7 level.     
+| [SI_PAH_DFT_geo.xyz](data/SI_PAH_DFT_geo.xyz)	| Contains 5 Polycyclic Aromatic Hydrocarbons molecules relaxed at B3LYP/6-31G(2df,p) level.    
+| [SI_PAH_baseline_geo.xyz](data/SI_PAH_baseline_geo.xyz)	| Contains 5 Polycyclic Aromatic Hydrocarbons molecules relaxed at PM7 level.    
+| [SI_GDB10to17_DFT_geo.xyz](data/SI_GDB10to17_DFT_geo.xyz)	| Contains 200 molecules from GDB10 to GDB17 molecules relaxed at B3LYP/6-31G(2df,p) level.     
+| [SI_GDB10to17_baseline_geo.xyz](data/SI_GDB10to17_baseline_geo.xyz)	| Contains 200 molecules from GDB10 to GDB17 molecules relaxed at PM7 level.     
 
 ### Data Files  
-[SI_12Drugs_DFT_NMR.txt](data/SI_12Drugs_DFT_NMR.txt)	For each molecule in SI_12Drugs_DFT_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at mPW1PW91/6-311+G(2d,p).      
-[SI_12Drugs_baseline_NMR.txt](data/SI_12Drugs_baseline_NMR.txt)	For each molecule in SI_12Drugs_baseline_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at B3LYP/sto-3g level.     
-[SI_40Drugs_DFT_NMR.txt](data/SI_40Drugs_DFT_NMR.txt)	For each molecule in SI_40Drugs_DFT_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at mPW1PW91/6-311+G(2d,p).        
-[SI_40Drugs_baseline_NMR.txt](data/SI_40Drugs_baseline_NMR.txt)	For each molecule in SI_40Drugs_baseline_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at B3LYP/sto-3g level.         
-[SI_PAH_DFT_NMR.txt](data/SI_PAH_DFT_NMR.txt)	For each molecule in SI_PAH_DFT_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at mPW1PW91/6-311+G(2d,p).          
-[SI_PAH_baseline_NMR.txt](data/SI_PAH_baseline_NMR.txt)	For each molecule in SI_PAH_baseline_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at B3LYP/sto-3g level.         
-[SI_GDB10to17_DFT_NMR.txt](data/SI_GDB10to17_DFT_NMR.txt)	For each molecule in SI_GDB10to17_DFT_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at mPW1PW91/6-311+G(2d,p).           
-[SI_GDB10to17_baseline_NMR.txt](data/SI_GDB10to17_baseline_NMR.txt)	For each molecule in SI_GDB10to17_baseline_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at B3LYP/sto-3g level.           
+| [SI_12Drugs_DFT_NMR.txt](data/SI_12Drugs_DFT_NMR.txt)	| For each molecule in SI_12Drugs_DFT_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at mPW1PW91/6-311+G(2d,p).      
+| [SI_12Drugs_baseline_NMR.txt](data/SI_12Drugs_baseline_NMR.txt)	| For each molecule in SI_12Drugs_baseline_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at B3LYP/sto-3g level.     
+| [SI_40Drugs_DFT_NMR.txt](data/SI_40Drugs_DFT_NMR.txt)	| For each molecule in SI_40Drugs_DFT_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at mPW1PW91/6-311+G(2d,p).        
+| [SI_40Drugs_baseline_NMR.txt](data/SI_40Drugs_baseline_NMR.txt)	| For each molecule in SI_40Drugs_baseline_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at B3LYP/sto-3g level.         
+| [SI_PAH_DFT_NMR.txt](data/SI_PAH_DFT_NMR.txt)	| For each molecule in SI_PAH_DFT_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at mPW1PW91/6-311+G(2d,p).          
+| [SI_PAH_baseline_NMR.txt](data/SI_PAH_baseline_NMR.txt)	| For each molecule in SI_PAH_baseline_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at B3LYP/sto-3g level.         
+| [SI_GDB10to17_DFT_NMR.txt](data/SI_GDB10to17_DFT_NMR.txt)	| For each molecule in SI_GDB10to17_DFT_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at mPW1PW91/6-311+G(2d,p).           
+| [SI_GDB10to17_baseline_NMR.txt](data/SI_GDB10to17_baseline_NMR.txt)	| For each molecule in SI_GDB10to17_baseline_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at B3LYP/sto-3g level.           
 
 ### <sup>13</sup>C shielding of the reference compound tetramethylsilane (TMS) [in ppm]
 ```
