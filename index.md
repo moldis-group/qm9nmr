@@ -7,7 +7,7 @@ layout: default
  
 ### Supplementary data for
 
-_Revving up 13C NMR shielding predictions across chemical space: benchmarks for atoms-in-molecules kernel machine learning with new data for 134 kilo molecules_  
+_Revving up <sup>13</sup>C NMR shielding predictions across chemical space: benchmarks for atoms-in-molecules kernel machine learning with new data for 134 kilo molecules_  
 Amit Gupta, Sabyasachi Chakraborty and Raghunathan Ramakrishnan     
 Mach. Learn.: Sci. Technol. 2 (2021) 035010     
 [https://doi.org/10.1088/2632-2153/abe347](https://doi.org/10.1088/2632-2153/abe347)
@@ -59,7 +59,7 @@ File	Comments
 [SI_GDB10to17_DFT_NMR.txt](SI_GDB10to17_DFT_NMR.txt)	For each molecule in SI_GDB10to17_DFT_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at mPW1PW91/6-311+G(2d,p).
 [SI_GDB10to17_baseline_NMR.txt](SI_GDB10to17_baseline_NMR.txt)	For each molecule in SI_GDB10to17_baseline_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at B3LYP/sto-3g level.
 
-### 13C shielding of the reference compound tetramethylsilane (TMS) [in ppm]
+### <sup>13</sup>C shielding of the reference compound tetramethylsilane (TMS) [in ppm]
 ```
 Gas      - 186.9704
 CCl4     - 187.2352
