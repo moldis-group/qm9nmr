@@ -1,0 +1,8 @@
+title: prunedHOF
+logo: toc.png
+description: Probabilistically Pruned Benchmark Dataset of Formation Enthalpies
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+defaults:
+  layout: single
