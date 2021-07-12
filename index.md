@@ -23,7 +23,9 @@ Mach. Learn.: Sci. Technol. 2 (2021) 035010
   year={2021},
   publisher={IOP Publishing}
 }
+```
 
+```
 Last modified: 21 July 2021
 
 SI_baseline_geo.xyz ⟶ Contains 130,831 molecules relaxed at PM7 level.
@@ -64,5 +66,5 @@ THF - 187.4958
 Acetone - 187.594875
 Methanol - 187.6181
 DMSO - 187.6304
-
+```
 
