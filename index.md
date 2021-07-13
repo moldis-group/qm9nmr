@@ -66,7 +66,7 @@ _Revision notes: In our original upload, the atomic indices of the baseline data
 Gas      - 186.9704
 CCl4     - 187.2352
 THF      - 187.4958
-Acetone  - 187.594875
+Acetone  - 187.5949
 Methanol - 187.6181
 DMSO     - 187.6304
 ```
