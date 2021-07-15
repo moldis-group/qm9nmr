@@ -4,10 +4,9 @@ layout: default
 
 ## QM9NMR dataset
 
- 
-### Supplementary data for
+The QM9-NMR dataset [Ref-1] contains gas and (implicit) solvent phase mPW1PW91/6-311+G(2d,p)-level chemical shielding for all atoms in the QM9 dataset [Ref-2] comprising 130,831 stable, synthetically feasible small organic molecules with up to 9 heavy atoms C, N, O and F. 
 
-_Revving up <sup>13</sup>C NMR shielding predictions across chemical space: benchmarks for atoms-in-molecules kernel machine learning with new data for 134 kilo molecules_  
+[Ref-1] _Revving up <sup>13</sup>C NMR shielding predictions across chemical space: benchmarks for atoms-in-molecules kernel machine learning with new data for 134 kilo molecules_  
 Amit Gupta, Sabyasachi Chakraborty and Raghunathan Ramakrishnan     
 Mach. Learn.: Sci. Technol. 2 (2021) 035010     
 [https://doi.org/10.1088/2632-2153/abe347](https://doi.org/10.1088/2632-2153/abe347)        
@@ -25,6 +24,8 @@ Mach. Learn.: Sci. Technol. 2 (2021) 035010
   publisher={IOP Publishing}
 }
 ```
+
+[Ref-2] 
 
 ## QM9NMR
 
