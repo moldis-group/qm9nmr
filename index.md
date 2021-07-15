@@ -25,7 +25,7 @@ Mach. Learn.: Sci. Technol. 2 (2021) 035010
 }
 ```
 
-[Ref-2] [_Quantum chemistry structures and properties of 134 kilo molecules_](http://www.nature.com/articles/sdata201422)
+[Ref-2] [_Quantum chemistry structures and properties of 134 kilo molecules_](http://www.nature.com/articles/sdata201422)          
 Raghunathan Ramakrishnan, Pavlo Dral, Matthias Rupp, O. Anatole von Lilienfeld      
 Scientific Data 1, Article number: 140022 (2014).    
 
