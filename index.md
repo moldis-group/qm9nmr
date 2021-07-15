@@ -26,6 +26,8 @@ Mach. Learn.: Sci. Technol. 2 (2021) 035010
 }
 ```
 
+## QM9NMR
+
 ### B3LYP/6-31G(2df,p) geometries
 [SI_DFT_geo.xyz](https://drive.google.com/file/d/1Kr9ZdYw503QsGT8qO2bid8wWQGQB-401/view?usp=sharing) Contains 130,831 molecules relaxed at B3LYP/6-31G(2df,p) level. These geometries are collected from the QM9 dataset reported in the [2014 paper on 134 kilo molecules](https://www.nature.com/articles/sdata201422)
 
@@ -37,6 +39,8 @@ Mach. Learn.: Sci. Technol. 2 (2021) 035010
 
 ### HF/STO-3G @ PM7 NMR data
 [SI_baseline_NMR.txt](https://drive.google.com/file/d/16uw_v2VlPYK57NRjDnxVYi_hfspRLQdi/view?usp=sharing) For each molecule in SI_baseline_geo.xyz, file contains number of atoms, followed by molecule name and isotropic shielding tensors per atom in the molecule in Gas phase obtained at B3LYP/STO-3G level.
+
+## Other benchmark data
 
 ### Structure Files
 
