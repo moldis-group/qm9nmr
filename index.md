@@ -62,10 +62,10 @@ DMSO     - 187.6304
 ### PM7 geometries
 [SI_baseline_geo.xyz](https://drive.google.com/file/d/1TgH_cbABKPMq9wG2wnftwDO_wl3XYTk2/view?usp=sharing) Contains 130,831 molecules relaxed at PM7 level.   
 
-### HF/STO-3G @ PM7 NMR data
+### B3LYP/STO-3G @ PM7 NMR data
 [SI_baseline_NMR.txt](https://drive.google.com/file/d/16uw_v2VlPYK57NRjDnxVYi_hfspRLQdi/view?usp=sharing) For each molecule in SI_baseline_geo.xyz, file contains number of atoms, followed by molecule name and isotropic shielding tensors per atom in the molecule in Gas phase obtained at B3LYP/STO-3G level.
 
-####  HF/STO-3G @ PM7 <sup>13</sup>C shielding for tetramethylsilane (TMS) [in ppm] 
+####  B3LYP/STO-3G @ PM7 <sup>13</sup>C shielding for tetramethylsilane (TMS) [in ppm] 
 ```
 Gas      - 232.4620
 ```
