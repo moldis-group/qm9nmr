@@ -6,41 +6,6 @@ layout: default
 
 The QM9-NMR dataset [Ref-1] contains gas and (implicit) solvent phase mPW1PW91/6-311+G(2d,p)-level chemical shielding for all atoms in the QM9 dataset [Ref-2] comprising 130,831 stable, synthetically feasible small organic molecules with up to 9 heavy atoms C, N, O and F. 
 
-[Ref-1] [_Revving up <sup>13</sup>C NMR shielding predictions across chemical space: benchmarks for atoms-in-molecules kernel machine learning with new data for 134 kilo molecules_](https://doi.org/10.1088/2632-2153/abe347)            
-Amit Gupta, Sabyasachi Chakraborty and Raghunathan Ramakrishnan     
-Mach. Learn.: Sci. Technol. 2 (2021) 035010     
-[Supplementary Information to the article (PDF)](data/SI.pdf)
-
-```
-@article{gupta2021revving,
-  title={Revving up 13C NMR shielding predictions across chemical space: Benchmarks for atoms-in-molecules kernel machine learning with new data for 134 kilo molecules},
-  author={Gupta, Amit and Chakraborty, Sabyasachi and Ramakrishnan, Raghunathan},
-  journal={Machine Learning: Science and Technology},
-  volume={2},
-  number={3},
-  pages={035010},
-  year={2021},
-  publisher={IOP Publishing}
-}
-```
-
-[Ref-2] [_Quantum chemistry structures and properties of 134 kilo molecules_](http://www.nature.com/articles/sdata201422)          
-Raghunathan Ramakrishnan, Pavlo Dral, Matthias Rupp, O. Anatole von Lilienfeld      
-Scientific Data 1, Article number: 140022 (2014).    
-
-```
-@article{ramakrishnan2014quantum,
-  title={Quantum chemistry structures and properties of 134 kilo molecules},
-  author={Ramakrishnan, Raghunathan and Dral, Pavlo O and Rupp, Matthias and Von Lilienfeld, O Anatole},
-  journal={Scientific data},
-  volume={1},
-  number={1},
-  pages={1--7},
-  year={2014},
-  publisher={Nature Publishing Group}
-}
-```
-
 ## QM9NMR
 
 ### B3LYP/6-31G(2df,p) geometries
@@ -97,3 +62,39 @@ Gas      - 232.4620
 ## Revision notes
 
 _19 June 2021: In our original upload, the atomic indices of the baseline data such as the PM7 geometries were shuffled. We thank Eric Collins for pointing this out. We have now uploaded the file 'pm7.tar.gz' with correct atomic indices._
+
+## References
+[Ref-1] [_Revving up <sup>13</sup>C NMR shielding predictions across chemical space: benchmarks for atoms-in-molecules kernel machine learning with new data for 134 kilo molecules_](https://doi.org/10.1088/2632-2153/abe347)            
+Amit Gupta, Sabyasachi Chakraborty and Raghunathan Ramakrishnan     
+Mach. Learn.: Sci. Technol. 2 (2021) 035010     
+[Supplementary Information to the article (PDF)](data/SI.pdf)
+
+```
+@article{gupta2021revving,
+  title={Revving up 13C NMR shielding predictions across chemical space: Benchmarks for atoms-in-molecules kernel machine learning with new data for 134 kilo molecules},
+  author={Gupta, Amit and Chakraborty, Sabyasachi and Ramakrishnan, Raghunathan},
+  journal={Machine Learning: Science and Technology},
+  volume={2},
+  number={3},
+  pages={035010},
+  year={2021},
+  publisher={IOP Publishing}
+}
+```
+
+[Ref-2] [_Quantum chemistry structures and properties of 134 kilo molecules_](http://www.nature.com/articles/sdata201422)          
+Raghunathan Ramakrishnan, Pavlo Dral, Matthias Rupp, O. Anatole von Lilienfeld      
+Scientific Data 1, Article number: 140022 (2014).    
+
+```
+@article{ramakrishnan2014quantum,
+  title={Quantum chemistry structures and properties of 134 kilo molecules},
+  author={Ramakrishnan, Raghunathan and Dral, Pavlo O and Rupp, Matthias and Von Lilienfeld, O Anatole},
+  journal={Scientific data},
+  volume={1},
+  number={1},
+  pages={1--7},
+  year={2014},
+  publisher={Nature Publishing Group}
+}
+```
