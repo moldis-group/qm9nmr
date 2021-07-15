@@ -29,6 +29,19 @@ Mach. Learn.: Sci. Technol. 2 (2021) 035010
 Raghunathan Ramakrishnan, Pavlo Dral, Matthias Rupp, O. Anatole von Lilienfeld      
 Scientific Data 1, Article number: 140022 (2014).    
 
+```
+@article{ramakrishnan2014quantum,
+  title={Quantum chemistry structures and properties of 134 kilo molecules},
+  author={Ramakrishnan, Raghunathan and Dral, Pavlo O and Rupp, Matthias and Von Lilienfeld, O Anatole},
+  journal={Scientific data},
+  volume={1},
+  number={1},
+  pages={1--7},
+  year={2014},
+  publisher={Nature Publishing Group}
+}
+```
+
 ## QM9NMR
 
 ### B3LYP/6-31G(2df,p) geometries
