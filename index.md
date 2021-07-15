@@ -4,7 +4,7 @@ layout: default
 
 ## QM9NMR dataset
 
-The QM9-NMR dataset [Ref-1] contains gas and (implicit) solvent phase mPW1PW91/6-311+G(2d,p)-level chemical shielding for all atoms in the QM9 dataset [Ref-2] comprising 130,831 stable, synthetically feasible small organic molecules with up to 9 heavy atoms C, N, O and F. 
+The QM9-NMR dataset [Ref-1] contains gas and (implicit) solvent phase mPW1PW91/6-311+G(2d,p)-level chemical shielding for all atoms in the QM9 dataset [Ref-2] comprising 130,831 stable, synthetically feasible small organic molecules with up to 9 C, N, O and F atoms.
 
 ## QM9NMR
 
