@@ -50,7 +50,7 @@ DMSO     - 187.6304
 ### HF/STO-3G @ PM7 NMR data
 [SI_baseline_NMR.txt](https://drive.google.com/file/d/16uw_v2VlPYK57NRjDnxVYi_hfspRLQdi/view?usp=sharing) For each molecule in SI_baseline_geo.xyz, file contains number of atoms, followed by molecule name and isotropic shielding tensors per atom in the molecule in Gas phase obtained at B3LYP/STO-3G level.
 
-## Other benchmark data
+## Case studies
 
 ### Structure Files
 
