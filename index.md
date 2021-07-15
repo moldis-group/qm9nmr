@@ -59,6 +59,11 @@ Methanol - 187.6181
 DMSO     - 187.6304
 ```
 
+####  PM7 @ HF/STO-3G <sup>13</sup>C shielding for tetramethylsilane (TMS) [in ppm] 
+```
+Gas      - 232.4620
+```
+
 ### PM7 geometries
 [SI_baseline_geo.xyz](https://drive.google.com/file/d/1TgH_cbABKPMq9wG2wnftwDO_wl3XYTk2/view?usp=sharing) Contains 130,831 molecules relaxed at PM7 level.   
 
