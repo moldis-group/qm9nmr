@@ -26,13 +26,16 @@ Mach. Learn.: Sci. Technol. 2 (2021) 035010
 }
 ```
 
-Last modified: 21 July 2021
-
-[SI_baseline_geo.xyz](https://drive.google.com/file/d/1TgH_cbABKPMq9wG2wnftwDO_wl3XYTk2/view?usp=sharing) Contains 130,831 molecules relaxed at PM7 level.   
-
+### B3LYP/6-31G(2df,p) geometries
 [SI_DFT_geo.xyz](https://drive.google.com/file/d/1Kr9ZdYw503QsGT8qO2bid8wWQGQB-401/view?usp=sharing) Contains 130,831 molecules relaxed at B3LYP/6-31G(2df,p) level.
 
+### mPW1PW91/6-311+G(2d,p) @ B3LYP/6-31G(2df,p) NMR data
 [SI_DFT_NMR.txt](https://drive.google.com/file/d/13vqG1zTsemLgfZP635pcAHjARhqDzJ8I/view?usp=sharing) For each molecule in SI_DFT_geo.xyz, file contains number of atoms, followed by molecule name and isotropic shielding tensors per atom in the molecule in Gas, CCl4, THF, Acetone, Methanol and DMSO respectively, obtained at mPW1PW91/6-311+G(2d,p).   
+
+### PM7 geometries
+[SI_baseline_geo.xyz](https://drive.google.com/file/d/1TgH_cbABKPMq9wG2wnftwDO_wl3XYTk2/view?usp=sharing) Contains 130,831 molecules relaxed at PM7 level.   
+
+### HF/STO-3G @ PM7 NMR data
 [SI_baseline_NMR.txt](https://drive.google.com/file/d/16uw_v2VlPYK57NRjDnxVYi_hfspRLQdi/view?usp=sharing) For each molecule in SI_baseline_geo.xyz, file contains number of atoms, followed by molecule name and isotropic shielding tensors per atom in the molecule in Gas phase obtained at B3LYP/STO-3G level.
 
 ### Structure Files
@@ -71,5 +74,3 @@ DMSO     - 187.6304
 ### Revision notes
 
 _19 June 2021: In our original upload, the atomic indices of the baseline data such as the PM7 geometries were shuffled. We thank Eric Collins for pointing this out. We have now uploaded the file 'pm7.tar.gz' with correct atomic indices._
-
-
