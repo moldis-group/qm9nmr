@@ -6,6 +6,8 @@ layout: default
 
 The QM9-NMR dataset [Ref-1] contains gas and (implicit) solvent phase mPW1PW91/6-311+G(2d,p)-level chemical shielding for all atoms in the QM9 dataset [Ref-2] comprising 130,831 stable, synthetically feasible small organic molecules with up to 9 C, N, O and F atoms.
 
+***
+
 ## QM9NMR
 
 ### B3LYP/6-31G(2df,p) geometries
@@ -35,6 +37,8 @@ DMSO     - 187.6304
 Gas      - 232.4620
 ```
 
+***
+
 ## Case studies
 
 ### Geometries
@@ -59,9 +63,13 @@ Gas      - 232.4620
 | [SI_GDB10to17_DFT_NMR.txt](data/SI_GDB10to17_DFT_NMR.txt) 	| For each molecule in SI_GDB10to17_DFT_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at mPW1PW91/6-311+G(2d,p).            
 | [SI_GDB10to17_baseline_NMR.txt](data/SI_GDB10to17_baseline_NMR.txt) 	| For each molecule in SI_GDB10to17_baseline_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at B3LYP/STO-3G level. 
 
+***
+
 ## Revision notes
 
 _19 June 2021: In our original upload, the atomic indices of the baseline data such as the PM7 geometries were shuffled. We thank Eric Collins for pointing this out. We have now uploaded the file 'pm7.tar.gz' with correct atomic indices._
+
+***
 
 ## References
 [Ref-1] [_Revving up <sup>13</sup>C NMR shielding predictions across chemical space: benchmarks for atoms-in-molecules kernel machine learning with new data for 134 kilo molecules_](https://doi.org/10.1088/2632-2153/abe347)            
