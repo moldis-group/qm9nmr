@@ -34,7 +34,7 @@ Mach. Learn.: Sci. Technol. 2 (2021) 035010
 ### mPW1PW91/6-311+G(2d,p) @ B3LYP/6-31G(2df,p) NMR data
 [SI_DFT_NMR.txt](https://drive.google.com/file/d/13vqG1zTsemLgfZP635pcAHjARhqDzJ8I/view?usp=sharing) For each molecule in SI_DFT_geo.xyz, file contains number of atoms, followed by molecule name and isotropic shielding tensors per atom in the molecule in Gas, CCl4, THF, Acetone, Methanol and DMSO respectively, obtained at mPW1PW91/6-311+G(2d,p).   
 
-####  mPW1PW91/6-311+G(2d,p) @ B3LYP/6-31G(2df,p) <sup>13</sup>C shielding of the reference compound tetramethylsilane (TMS) [in ppm] 
+####  mPW1PW91/6-311+G(2d,p) @ B3LYP/6-31G(2df,p) <sup>13</sup>C shielding for tetramethylsilane (TMS) [in ppm] 
 ```
 Gas      - 186.9704
 CCl4     - 187.2352
