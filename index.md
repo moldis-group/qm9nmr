@@ -25,12 +25,14 @@ Mach. Learn.: Sci. Technol. 2 (2021) 035010
 }
 ```
 
-[Ref-2] 
+[Ref-2] [_Quantum chemistry structures and properties of 134 kilo molecules_](http://www.nature.com/articles/sdata201422)
+Raghunathan Ramakrishnan, Pavlo Dral, Matthias Rupp, O. Anatole von Lilienfeld      
+Scientific Data 1, Article number: 140022 (2014).    
 
 ## QM9NMR
 
 ### B3LYP/6-31G(2df,p) geometries
-[SI_DFT_geo.xyz](https://drive.google.com/file/d/1Kr9ZdYw503QsGT8qO2bid8wWQGQB-401/view?usp=sharing) Contains 130,831 molecules relaxed at B3LYP/6-31G(2df,p) level. These geometries are collected from the QM9 dataset reported in the [2014 paper on 134 kilo molecules](https://www.nature.com/articles/sdata201422)
+[SI_DFT_geo.xyz](https://drive.google.com/file/d/1Kr9ZdYw503QsGT8qO2bid8wWQGQB-401/view?usp=sharing) Contains 130,831 molecules relaxed at B3LYP/6-31G(2df,p) level. These geometries are collected from the QM9 dataset reported in the [Ref-2](https://www.nature.com/articles/sdata201422)
 
 ### mPW1PW91/6-311+G(2d,p) @ B3LYP/6-31G(2df,p) NMR data
 [SI_DFT_NMR.txt](https://drive.google.com/file/d/13vqG1zTsemLgfZP635pcAHjARhqDzJ8I/view?usp=sharing) For each molecule in SI_DFT_geo.xyz, file contains number of atoms, followed by molecule name and isotropic shielding tensors per atom in the molecule in Gas, CCl4, THF, Acetone, Methanol and DMSO respectively, obtained at mPW1PW91/6-311+G(2d,p).   
