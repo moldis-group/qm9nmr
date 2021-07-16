@@ -77,32 +77,6 @@ Amit Gupta, Sabyasachi Chakraborty and Raghunathan Ramakrishnan
 Mach. Learn.: Sci. Technol. 2 (2021) 035010     
 [Supplementary Information to the article (PDF)](data/SI.pdf)
 
-```
-@article{gupta2021revving,
-  title={Revving up 13C NMR shielding predictions across chemical space: Benchmarks for atoms-in-molecules kernel machine learning with new data for 134 kilo molecules},
-  author={Gupta, Amit and Chakraborty, Sabyasachi and Ramakrishnan, Raghunathan},
-  journal={Machine Learning: Science and Technology},
-  volume={2},
-  number={3},
-  pages={035010},
-  year={2021},
-  publisher={IOP Publishing}
-}
-```
-
 [Ref-2] [_Quantum chemistry structures and properties of 134 kilo molecules_](http://www.nature.com/articles/sdata201422)          
 Raghunathan Ramakrishnan, Pavlo Dral, Matthias Rupp, O. Anatole von Lilienfeld      
 Scientific Data 1, Article number: 140022 (2014).    
-
-```
-@article{ramakrishnan2014quantum,
-  title={Quantum chemistry structures and properties of 134 kilo molecules},
-  author={Ramakrishnan, Raghunathan and Dral, Pavlo O and Rupp, Matthias and Von Lilienfeld, O Anatole},
-  journal={Scientific data},
-  volume={1},
-  number={1},
-  pages={1--7},
-  year={2014},
-  publisher={Nature Publishing Group}
-}
-```
