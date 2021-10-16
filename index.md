@@ -20,7 +20,7 @@ The QM9-NMR dataset [Ref-1] contains gas and (implicit) solvent phase mPW1PW91/6
 
 Gaussian16 output files for 130831 molecules with NMR data at the level mPW1PW91/6-311+G(2d,p) @ B3LYP/6-31G(2df,p) is available for download at
 
-[https://doi.org/10.17172/NOMAD/2021.10.16-1]( mPW1PW91/6-311+G(2d,p) @ B3LYP/6-31G(2df,p) )
+[https://doi.org/10.17172/NOMAD/2021.10.16-1](https://doi.org/10.17172/NOMAD/2021.10.16-1)
 
 ####  mPW1PW91/6-311+G(2d,p) @ B3LYP/6-31G(2df,p) <sup>13</sup>C shielding for tetramethylsilane (TMS) [in ppm] 
 ```
