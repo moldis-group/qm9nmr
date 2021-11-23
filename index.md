@@ -20,12 +20,12 @@ The QM9-NMR dataset [Ref-1] contains gas and (implicit) solvent phase mPW1PW91/6
 
 Gaussian16 output files for 130831 molecules with NMR data at the level mPW1PW91/6-311+G(2d,p) @ B3LYP/6-31G(2df,p) is available for download at
 
-[Gas phase](https://nomad-lab.eu/prod/rae/gui/dataset/id/dwVDQQTtRGC5V5OH1Ddbpg?results=datasets)
-[CCl4](https://nomad-lab.eu/prod/rae/gui/dataset/id/ly5xV6JXRpuwa9ByWP-a4w?results=datasets)
-[THF](https://nomad-lab.eu/prod/rae/gui/dataset/id/PKMdIIOsQR644mo2PIvPIg?results=datasets)
-[Acetone](https://nomad-lab.eu/prod/rae/gui/dataset/id/RhoELQmVS2K0AxPHW0JFbw?results=datasets)
-[Methanol](https://nomad-lab.eu/prod/rae/gui/dataset/id/cMfYU0u1RcuA6P9uqwQXng?results=datasets)
-[DMSO](https://nomad-lab.eu/prod/rae/gui/dataset/id/417HCiXDRhC22th2aE4Xzw?results=datasets)
+[Gas phase](https://nomad-lab.eu/prod/rae/gui/dataset/id/dwVDQQTtRGC5V5OH1Ddbpg?results=datasets)   
+[CCl4](https://nomad-lab.eu/prod/rae/gui/dataset/id/ly5xV6JXRpuwa9ByWP-a4w?results=datasets)    
+[THF](https://nomad-lab.eu/prod/rae/gui/dataset/id/PKMdIIOsQR644mo2PIvPIg?results=datasets)    
+[Acetone](https://nomad-lab.eu/prod/rae/gui/dataset/id/RhoELQmVS2K0AxPHW0JFbw?results=datasets)    
+[Methanol](https://nomad-lab.eu/prod/rae/gui/dataset/id/cMfYU0u1RcuA6P9uqwQXng?results=datasets)   
+[DMSO](https://nomad-lab.eu/prod/rae/gui/dataset/id/417HCiXDRhC22th2aE4Xzw?results=datasets)    
 
 [https://doi.org/10.17172/NOMAD/2021.10.16-1](https://doi.org/10.17172/NOMAD/2021.10.16-1)
 
