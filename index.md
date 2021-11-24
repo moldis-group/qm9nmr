@@ -27,6 +27,10 @@ Gaussian16 output files for 130831 molecules with NMR data at the level mPW1PW91
 [Methanol](https://nomad-lab.eu/prod/rae/gui/dataset/id/cMfYU0u1RcuA6P9uqwQXng?results=datasets)   
 [DMSO](https://nomad-lab.eu/prod/rae/gui/dataset/id/417HCiXDRhC22th2aE4Xzw?results=datasets)    
 
+```
+NOTE: Some output files failed to get uploaded on NoMaD. We are working towards uploading these missing files. 
+```
+
 Please use the dataset DOI: [https://doi.org/10.17172/NOMAD/2021.10.16-1](https://doi.org/10.17172/NOMAD/2021.10.16-1)
 
 ####  mPW1PW91/6-311+G(2d,p) @ B3LYP/6-31G(2df,p) <sup>13</sup>C shielding for tetramethylsilane (TMS) [in ppm] 
