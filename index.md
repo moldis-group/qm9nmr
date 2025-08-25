@@ -68,6 +68,9 @@ Gas      - 232.4620
 | [SI_PAH_baseline_geo.xyz](data/SI_PAH_baseline_geo.xyz)             | Contains 5 Polycyclic Aromatic Hydrocarbons molecules relaxed at PM7 level.                
 | [SI_GDB10to17_DFT_geo.xyz](data/SI_GDB10to17_DFT_geo.xyz)           | Contains 200 molecules from GDB10 to GDB17 molecules relaxed at B3LYP/6-31G(2df,p) level.  
 | [SI_GDB10to17_baseline_geo.xyz](data/SI_GDB10to17_baseline_geo.xyz) | Contains 200 molecules from GDB10 to GDB17 molecules relaxed at PM7 level.                
+| [SI_pyrimidinone_DFT_geo.xyz](data/SI_pyrimidinone_DFT_geo.xyz)           | Contains 208 pyrimidinone molecules relaxed at B3LYP/6-31G(2df,p) level.  
+| [SI_pyrimidinone_baseline_geo.xyz](data/SI_pyrimidinone_baseline_geo.xyz) | Contains 208 pyrimidinone molecules relaxed at PM7 level.  
+
 
 ### NMR data
 
@@ -79,12 +82,16 @@ Gas      - 232.4620
 | [SI_PAH_baseline_NMR.txt](data/SI_PAH_baseline_NMR.txt) 	| For each molecule in SI_PAH_baseline_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at B3LYP/STO-3G level.          
 | [SI_GDB10to17_DFT_NMR.txt](data/SI_GDB10to17_DFT_NMR.txt) 	| For each molecule in SI_GDB10to17_DFT_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at mPW1PW91/6-311+G(2d,p).            
 | [SI_GDB10to17_baseline_NMR.txt](data/SI_GDB10to17_baseline_NMR.txt) 	| For each molecule in SI_GDB10to17_baseline_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at B3LYP/STO-3G level. 
+| [SI_pyrimidinone_DFT_NMR.txt](data/SI_pyrimidinone_DFT_NMR.txt) 	| For each molecule in SI_pyrimidinone_DFT_NMR.txt, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at mPW1PW91/6-311+G(2d,p).
+
 
 ***
 
 ## Revision notes
 
 _19 June 2021: In our original upload, the atomic indices of the baseline data such as the PM7 geometries were shuffled. We thank Eric Collins for pointing this out. We have now uploaded the file 'pm7.tar.gz' with correct atomic indices._
+
+_25 August 2025: The pyrimidinone dataset has been updated with geometries (DFT and PM7) and NMR parameters (DFT)._
 
 ***
 
@@ -97,3 +104,6 @@ Mach. Learn.: Sci. Technol. 2 (2021) 035010
 [Ref-2] [_Quantum chemistry structures and properties of 134 kilo molecules_](http://www.nature.com/articles/sdata201422)          
 Raghunathan Ramakrishnan, Pavlo Dral, Matthias Rupp, O. Anatole von Lilienfeld      
 Scientific Data 1, Article number: 140022 (2014).    
+
+[Ref-3] [_Enhancing NMR Shielding Predictions of Atoms-in-Molecules Machine Learning Models with Neighborhood-Informed Representations_](https://github.com/moldis-group/mlqm9nmr.git)          
+Surajit Das, Raghunathan Ramakrishnan 
