@@ -84,6 +84,9 @@ Gas      - 232.4620
 | [SI_GDB10to17_baseline_NMR.txt](data/SI_GDB10to17_baseline_NMR.txt) 	| For each molecule in SI_GDB10to17_baseline_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at B3LYP/STO-3G level. 
 | [SI_pyrimidinone_DFT_NMR.txt](data/SI_pyrimidinone_DFT_NMR.txt) 	| For each molecule in SI_pyrimidinone_DFT_NMR.txt, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at mPW1PW91/6-311+G(2d,p).
 
+### ML models trained on QM9NMR
+
+See details in Ref-3 for accurate ML models trained on the QM9NMR dataset.  
 
 ***
 
@@ -105,5 +108,6 @@ Mach. Learn.: Sci. Technol. 2 (2021) 035010
 Raghunathan Ramakrishnan, Pavlo Dral, Matthias Rupp, O. Anatole von Lilienfeld      
 Scientific Data 1, Article number: 140022 (2014).    
 
-[Ref-3] [_Enhancing NMR Shielding Predictions of Atoms-in-Molecules Machine Learning Models with Neighborhood-Informed Representations_](https://github.com/moldis-group/mlqm9nmr.git)          
-Surajit Das, Raghunathan Ramakrishnan 
+[Ref-3] [_Enhancing NMR Shielding Predictions of Atoms-in-Molecules Machine Learning Models with Neighborhood-Informed Representations_](https://arxiv.org/abs/2510.05623)          
+Surajit Das, Raghunathan Ramakrishnan  
+Preprint (2025).  
