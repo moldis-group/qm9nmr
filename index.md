@@ -84,6 +84,8 @@ Gas      - 232.4620
 | [SI_GDB10to17_baseline_NMR.txt](data/SI_GDB10to17_baseline_NMR.txt) 	| For each molecule in SI_GDB10to17_baseline_geo.xyz, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at B3LYP/STO-3G level. 
 | [SI_pyrimidinone_DFT_NMR.txt](data/SI_pyrimidinone_DFT_NMR.txt) 	| For each molecule in SI_pyrimidinone_DFT_NMR.txt, contains number of atoms, molecule name and isotropic shielding tensors per atom, in Gas phase at mPW1PW91/6-311+G(2d,p).
 
+*** 
+
 ### ML models trained on QM9NMR
 
 See details in Ref-3 for accurate ML models trained on the QM9NMR dataset.  
