@@ -88,7 +88,7 @@ Gas      - 232.4620
 
 ### ML models trained on QM9NMR
 
-See details in Ref-3 for accurate ML models trained on the QM9NMR dataset.  
+See details in [Ref-3](https://arxiv.org/abs/2510.05623) for accurate ML models trained on the QM9NMR dataset.  
 
 ***
 
