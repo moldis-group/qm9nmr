@@ -86,9 +86,9 @@ Gas      - 232.4620
 
 *** 
 
-### ML models trained on QM9NMR
+## ML models trained on QM9NMR
 
-See details in [Ref-3](https://arxiv.org/abs/2510.05623) for accurate ML models trained on the QM9NMR dataset.  
+[MLQM9NMR](https://github.com/moldis-group/mlqm9nmr) is package with KRR-ML models trained on the QM9NMR dataset. For more details, see [Ref-3](https://arxiv.org/abs/2510.05623).    
 
 ***
 
@@ -111,5 +111,5 @@ Raghunathan Ramakrishnan, Pavlo Dral, Matthias Rupp, O. Anatole von Lilienfeld
 Scientific Data 1, Article number: 140022 (2014).    
 
 [Ref-3] [_Enhancing NMR Shielding Predictions of Atoms-in-Molecules Machine Learning Models with Neighborhood-Informed Representations_](https://arxiv.org/abs/2510.05623)          
-Surajit Das, Raghunathan Ramakrishnan  
-Preprint (2025).  
+Surajit Das, Raghunathan Ramakrishnan   
+J. Chem. Phys. (2026)   
