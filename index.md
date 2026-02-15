@@ -88,7 +88,7 @@ Gas      - 232.4620
 
 ## ML models trained on QM9NMR
 
-[MLQM9NMR](https://github.com/moldis-group/mlqm9nmr) is package with KRR-ML models trained on the QM9NMR dataset. For more details, see [Ref-3](https://arxiv.org/abs/2510.05623).    
+[MLQM9NMR](https://github.com/moldis-group/mlqm9nmr) is package with KRR-ML models trained on the QM9NMR dataset. For more details, see [Ref-3](https://doi.org/10.1063/5.0306349).    
 
 ***
 
