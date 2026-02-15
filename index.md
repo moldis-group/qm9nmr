@@ -102,14 +102,14 @@ _25 August 2025: The pyrimidinone dataset has been updated with geometries (DFT 
 
 ## References
 [Ref-1] [_Revving up <sup>13</sup>C NMR shielding predictions across chemical space: benchmarks for atoms-in-molecules kernel machine learning with new data for 134 kilo molecules_](https://doi.org/10.1088/2632-2153/abe347)            
-Amit Gupta, Sabyasachi Chakraborty and Raghunathan Ramakrishnan     
+Amit Gupta, Sabyasachi Chakraborty, and Raghunathan Ramakrishnan     
 Mach. Learn.: Sci. Technol. 2 (2021) 035010     
 [Supplementary Information to the article (PDF)](data/SI.pdf)
 
 [Ref-2] [_Quantum chemistry structures and properties of 134 kilo molecules_](http://www.nature.com/articles/sdata201422)          
-Raghunathan Ramakrishnan, Pavlo Dral, Matthias Rupp, O. Anatole von Lilienfeld      
+Raghunathan Ramakrishnan, Pavlo Dral, Matthias Rupp, and O. Anatole von Lilienfeld      
 Scientific Data 1, Article number: 140022 (2014).    
 
-[Ref-3] [_Enhancing NMR Shielding Predictions of Atoms-in-Molecules Machine Learning Models with Neighborhood-Informed Representations_](https://arxiv.org/abs/2510.05623)          
+[Ref-3] [_Enhancing NMR Shielding Predictions of Atoms-in-Molecules Machine Learning Models with Neighborhood-Informed Representations_](https://doi.org/10.1063/5.0306349)          
 Surajit Das, Raghunathan Ramakrishnan   
-J. Chem. Phys. (2026)   
+J. Chem. Phys. 164 (2026) 044106.   
